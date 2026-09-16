@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-display: 'Plus Jakarta Sans', 'Prompt', sans-serif;
+    --font-body: 'Plus Jakarta Sans', 'Prompt', sans-serif;
+  }
+
+  body {
+    background-color: #0b0616;
+    color: #f3e8ff;
+    font-family: var(--font-body);
+    overflow-x: hidden;
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+/* Custom Cosmic Glow & Gradients */
+.bg-cosmic-dark {
+  background: radial-gradient(circle at 50% 0%, #26114a 0%, #120826 50%, #0a0514 100%);
+}
+
+.bg-cosmic-card {
+  background: linear-gradient(145deg, rgba(35, 18, 71, 0.7) 0%, rgba(20, 10, 42, 0.85) 100%);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(168, 85, 247, 0.2);
+}
+
+.bg-cosmic-card:hover {
+  border-color: rgba(192, 132, 252, 0.4);
+}
+
+.glow-purple {
+  box-shadow: 0 0 25px -5px rgba(168, 85, 247, 0.35);
+}
+
+.glow-purple-sm {
+  box-shadow: 0 0 15px -3px rgba(168, 85, 247, 0.25);
+}
+
+.glow-yellow-sm {
+  box-shadow: 0 0 15px -3px rgba(250, 204, 21, 0.35);
+}
+
+.neon-border {
+  border: 1px solid rgba(192, 132, 252, 0.35);
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0d061a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3b1b6e;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6b21a8;
+}

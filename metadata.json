@@ -1,0 +1,8 @@
+{
+  "name": "Remix PURPLE PUFF",
+  "description": "Mobile-first Store Catalog \u0026 Admin Management App with Cosmic Purple design",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

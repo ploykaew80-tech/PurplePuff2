@@ -1,0 +1,1044 @@
+{
+  "products": [
+    {
+      "id": "prod-001",
+      "product_name": "Granddaddy Purple (GDP)",
+      "category_id": "cat-top",
+      "type": "Indica",
+      "description": "สายพันธุ์ตำนานสีม่วงเข้ม กลิ่นเบอร์รี่และองุ่นสุกเด่นชัด ให้ความผ่อนคลายล้ำลึก สบายตัวสูงสุด เหมาะสำหรับพักผ่อนยามค่ำคืน",
+      "effect_1": "ผ่อนคลายลึก",
+      "effect_2": "หลับสบาย",
+      "effect_3": "เคลิ้มสุข",
+      "price": 450,
+      "image_url": "https://images.unsplash.com/photo-1568644396922-5c3bfae12521?auto=format&fit=crop&w=800&q=80",
+      "status": "AVAILABLE",
+      "featured": true,
+      "display_order": 1,
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T06:39:00.515Z",
+      "created_by": "Super Admin",
+      "updated_by": "Store Manager Mark"
+    },
+    {
+      "id": "prod-002",
+      "product_name": "Purple Punch Cosmic Cut",
+      "category_id": "cat-top",
+      "type": "Indica",
+      "description": "ไฮบริดอินดิก้าชั้นยอด กลิ่นบลูเบอร์รี่มัฟฟินและทาร์ตผลไม้หวานฉ่ำ ไตรโคมประกายประกายม่วงระยิบระยับ ปรับอารมณ์ให้สงบผ่อนคลาย",
+      "effect_1": "สงบจิตใจ",
+      "effect_2": "ลดความเครียด",
+      "effect_3": "ตัวเบาสบาย",
+      "price": 150,
+      "image_url": "https://images.unsplash.com/photo-1536939459926-301728717817?auto=format&fit=crop&w=800&q=80",
+      "status": "AVAILABLE",
+      "featured": true,
+      "display_order": 2,
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T07:03:57.308Z",
+      "created_by": "Super Admin",
+      "updated_by": "Store Manager Mark"
+    },
+    {
+      "id": "prod-003",
+      "product_name": "Super Lemon Haze Pop",
+      "category_id": "cat-pop",
+      "type": "Sativa",
+      "description": "ดอกป๊อปคอร์นขนาดกะทัดรัด กลิ่นเลมอนเปรี้ยวสดชื่น กระปรี้กระเปร่า สมองแล่น มีพลังงานสร้างสรรค์ เหมาะสำหรับช่วงกลางวัน",
+      "effect_1": "มีพลังงาน",
+      "effect_2": "โฟกัสดีเยี่ยม",
+      "effect_3": "อารมณ์ดี",
+      "price": 250,
+      "image_url": "https://images.unsplash.com/photo-1603909223429-69bb7101f420?auto=format&fit=crop&w=800&q=80",
+      "status": "AVAILABLE",
+      "featured": true,
+      "display_order": 3,
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z",
+      "created_by": "Super Admin"
+    },
+    {
+      "id": "prod-004",
+      "product_name": "Gelato #33 (Larry Bird)",
+      "category_id": "cat-top",
+      "type": "Hybrid",
+      "description": "สายพันธุ์ไฮบริดที่สมดุลอย่างสมบูรณ์แบบ กลิ่นหวานครีมวนิลาผสมซิตรัส บรรเทาอาการเมื่อยล้าและเพิ่มความสุขสดชื่น",
+      "effect_1": "สมดุลทั้งตัว",
+      "effect_2": "เบิกบานใจ",
+      "effect_3": "ผ่อนคลายกล้ามเนื้อ",
+      "price": 480,
+      "image_url": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?auto=format&fit=crop&w=800&q=80",
+      "status": "SOLD OUT",
+      "featured": true,
+      "display_order": 4,
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T05:17:56.206Z",
+      "created_by": "Super Admin",
+      "updated_by": "Super Admin Ploy"
+    },
+    {
+      "id": "prod-005",
+      "product_name": "Thai Stick Vintage GH",
+      "category_id": "cat-greenhouse",
+      "type": "Sativa",
+      "description": "สายพันธุ์แลนด์เรซไทยคลาสสิก ปลูกในระบบกรีนเฮ้าส์อินทรีย์ ให้กลิ่นดินผสมผลไม้เมืองร้อน หัวโปร่ง โล่งสบาย อารมณ์สดใส",
+      "effect_1": "สมองโล่ง",
+      "effect_2": "สร้างสรรค์",
+      "effect_3": "หัวเราะง่าย",
+      "price": 280,
+      "image_url": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=800&q=80",
+      "status": "AVAILABLE",
+      "featured": false,
+      "display_order": 5,
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z",
+      "created_by": "Super Admin"
+    },
+    {
+      "id": "prod-006",
+      "product_name": "Purple Cosmic Pre-Roll 1G",
+      "category_id": "cat-preroll",
+      "type": "Indica",
+      "description": "พันลำสำเร็จรูปพร้อมสูบ 1 กรัม ดอก GDP 100% ไม่มีก้าน ห่อด้วยกระดาษ RAW Organic Hemp กลิ่นหอมฟุ้ง พกพาสะดวก",
+      "effect_1": "พร้อมสูบไว",
+      "effect_2": "หลับลึก",
+      "effect_3": "คลายกังวล",
+      "price": 190,
+      "image_url": "https://images.unsplash.com/photo-1527661591475-527312dd65f5?auto=format&fit=crop&w=800&q=80",
+      "status": "AVAILABLE",
+      "featured": true,
+      "display_order": 6,
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z",
+      "created_by": "Super Admin"
+    },
+    {
+      "id": "prod-007",
+      "product_name": "Premium Sugar Leaf Trim 10G",
+      "category_id": "cat-trim",
+      "type": "Hybrid",
+      "description": "เศษใบชูการ์ลีฟคัดพิเศษ ไตรโคมขาวประกาย เหมาะสำหรับนำไปสกัดเนย ชา หรือผสมสมุนไพร คุ้มค่า ปริมาณ 10 กรัม",
+      "effect_1": "คุ้มค่าสูง",
+      "effect_2": "กลิ่นหอมเบา",
+      "effect_3": "ชิลสบาย",
+      "price": 350,
+      "image_url": "https://images.unsplash.com/photo-1550989460-0adf9ea622e2?auto=format&fit=crop&w=800&q=80",
+      "status": "AVAILABLE",
+      "featured": false,
+      "display_order": 7,
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z",
+      "created_by": "Super Admin"
+    },
+    {
+      "id": "prod-008",
+      "product_name": "Cosmic Purple Space Gummies",
+      "category_id": "cat-edible",
+      "type": "Hybrid",
+      "description": "เยลลี่องุ่นผสมสารสกัดธรรมชาติ เคี้ยวหนึบ รสชาติหวานอมเปรี้ยว ให้ความรู้สึกนุ่มนวล ผ่อนคลายต่อเนื่องยาวนาน บรรจุ 5 ชิ้น",
+      "effect_1": "รสชาติอร่อย",
+      "effect_2": "ออกฤทธิ์นาน",
+      "effect_3": "อารมณ์ละมุน",
+      "price": 320,
+      "image_url": "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?auto=format&fit=crop&w=800&q=80",
+      "status": "AVAILABLE",
+      "featured": true,
+      "display_order": 8,
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z",
+      "created_by": "Super Admin"
+    },
+    {
+      "id": "prod-009",
+      "product_name": "Purple Puff Grinder 4-Piece",
+      "category_id": "cat-general",
+      "type": "Hybrid",
+      "description": "เครื่องบดอะลูมิเนียมเกรดอากาศยาน 4 ชั้น สีม่วง Cosmic Purple เลเซอร์โลโก้ PURPLE PUFF ฟันบดคมเฉียบ กรองเกสรละเอียด",
+      "effect_1": "",
+      "effect_2": "",
+      "effect_3": "",
+      "price": 390,
+      "image_url": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=800&q=80",
+      "status": "AVAILABLE",
+      "featured": false,
+      "display_order": 9,
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z",
+      "created_by": "Super Admin"
+    },
+    {
+      "id": "prod-010",
+      "product_name": "Runtz Tropical Edition (Limited)",
+      "category_id": "cat-top",
+      "type": "Hybrid",
+      "description": "สายพันธุ์หายาก ฟีโนไทป์สีม่วงผลไม้ รสชาติหวานเหมือนลูกกวาดผลไม้รวม สินค้ามีจำนวนจำกัดและกำลังรอรอบเก็บเกี่ยวใหม่",
+      "effect_1": "เคลิ้มสุขสูง",
+      "effect_2": "รสชาติลูกกวาด",
+      "effect_3": "ผ่อนคลายลึก",
+      "price": 520,
+      "image_url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
+      "status": "SOLD OUT",
+      "featured": false,
+      "display_order": 10,
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z",
+      "created_by": "Super Admin"
+    },
+    {
+      "product_name": "I cream cookie",
+      "category_id": "cat-top",
+      "type": "Hybrid",
+      "description": "",
+      "effect_1": "ผ่อนคลายลึก",
+      "effect_2": "หลับสบาย",
+      "effect_3": "เคลิ้มสุข",
+      "price": 150,
+      "image_url": "https://images.unsplash.com/photo-1568644396922-5c3bfae12521?auto=format&fit=crop&w=800&q=80",
+      "status": "AVAILABLE",
+      "featured": false,
+      "display_order": 11,
+      "created_by": "Store Manager Mark",
+      "updated_by": "Store Manager Mark",
+      "id": "prod-1789364806956",
+      "created_at": "2026-09-14T05:46:46.956Z",
+      "updated_at": "2026-09-14T05:46:46.956Z"
+    },
+    {
+      "product_name": "ff",
+      "category_id": "cat-top",
+      "type": "Hybrid",
+      "description": "",
+      "effect_1": "ผ่อนคลายลึก",
+      "effect_2": "หลับสบาย",
+      "effect_3": "เคลิ้มสุข",
+      "price": 110,
+      "image_url": "https://images.unsplash.com/photo-1568644396922-5c3bfae12521?auto=format&fit=crop&w=800&q=80",
+      "status": "AVAILABLE",
+      "featured": false,
+      "display_order": 12,
+      "created_by": "Store Manager Mark",
+      "updated_by": "Store Manager Mark",
+      "id": "prod-1789367827844",
+      "created_at": "2026-09-14T06:37:07.844Z",
+      "updated_at": "2026-09-14T06:37:07.844Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-pop",
+      "name": "🌸 ดอก POP",
+      "icon": "🌸",
+      "description": "ดอกไซส์ Popcorn ราคาสบายกระเป๋า คุณภาพเต็มเม็ด",
+      "display_order": 1,
+      "status": "ACTIVE",
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z"
+    },
+    {
+      "id": "cat-top",
+      "name": "👑 ดอก TOP",
+      "icon": "👑",
+      "description": "Top Shelf ระดับพรีเมียม กลิ่นแน่น คัดเกรดพิเศษ",
+      "display_order": 2,
+      "status": "ACTIVE",
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z"
+    },
+    {
+      "id": "cat-greenhouse",
+      "name": "🌿 ดอก GREEN HOUSE",
+      "icon": "🌿",
+      "description": "ปลูกระบบ Green House ควบคุมแสงธรรมชาติ คุณภาพคงที่",
+      "display_order": 3,
+      "status": "ACTIVE",
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z"
+    },
+    {
+      "id": "cat-trim",
+      "name": "✂️ TRIM",
+      "icon": "✂️",
+      "description": "Trim Sugar Leaves คัดพิเศษ เหมาะสำหรับสกัดหรือผสม",
+      "display_order": 4,
+      "status": "ACTIVE",
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z"
+    },
+    {
+      "id": "cat-preroll",
+      "name": "🚬 พันลำ",
+      "icon": "🚬",
+      "description": "Pre-rolls พันสดพร้อมสูบ ดอกล้วนไม่มีก้าน",
+      "display_order": 5,
+      "status": "ACTIVE",
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z"
+    },
+    {
+      "id": "cat-general",
+      "name": "🛠️ อุปกรณ์ / ของทั่วไป",
+      "icon": "🛠️",
+      "description": "อุปกรณ์ บ้อง กระดาษโรล ไฟแช็ค และแอคเซสเซอรี่",
+      "display_order": 6,
+      "status": "ACTIVE",
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z"
+    },
+    {
+      "id": "cat-promotion",
+      "name": "🔥 PROMOTION",
+      "icon": "🔥",
+      "description": "ดีลเด็ดและเซ็ตสุดคุ้มประจำสัปดาห์",
+      "display_order": 7,
+      "status": "ACTIVE",
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z"
+    },
+    {
+      "id": "cat-edible",
+      "name": "🍭 ขนม",
+      "icon": "🍭",
+      "description": "เยลลี่ คุกกี้ และขนมผสมสูตรพิเศษ อร่อยกลมกล่อม",
+      "display_order": 8,
+      "status": "ACTIVE",
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z"
+    }
+  ],
+  "promotions": [
+    {
+      "id": "promo-001",
+      "title": "💜 3 free 1",
+      "description": "คละได้ทั้ง หมด ยกเว้นโรลไม่รวมโปร",
+      "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+      "start_date": "2026-09-01",
+      "end_date": "2026-10-31",
+      "status": "ACTIVE",
+      "display_order": 1,
+      "created_at": "2026-09-14T04:28:08.979Z",
+      "updated_at": "2026-09-14T06:58:59.653Z"
+    }
+  ],
+  "store_settings": {
+    "id": "store-main",
+    "store_name": "PURPLE PUFF",
+    "logo_url": "/uploads/store_logo_purple_heart.jpg",
+    "banner_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=80",
+    "description": "PURPLE PUFF — Cosmic & Premium Dispensary Store ดอกคัดเกรดพรีเมียม สดใหม่ กลิ่นแน่น คัดเฉพาะสายพันธุ์ชั้นนำ พร้อมบริการจัดส่งด่วนถึงที่",
+    "opening_time": "10:00",
+    "closing_time": "02:00",
+    "contact": "0902743754",
+    "line_username": "@798shear",
+    "instagram_username": "",
+    "delivery_available": true,
+    "facebook": "PurplePuffOfficial",
+    "google_maps": "https://maps.app.goo.gl/CyT3Fp4SpJW27sYF8?g_st=ic",
+    "location_address": "Pathum, Thailand (ให้บริการหน้าร้าน & จัดส่ง Express)",
+    "store_policies": "ผู้ซื้อต้องมีอายุตั้งแต่ 20 ปีบริบูรณ์ขึ้นไป ห้ามสตรีมีครรภ์หรือให้นมบุตรใช้งาน สินค้าเพื่อการผ่อนคลายและดูแลสุขภาวะเท่านั้น",
+    "updated_at": "2026-09-14T07:03:11.547Z"
+  },
+  "users": [
+    {
+      "id": "usr-001",
+      "name": "Super Admin Ploy",
+      "email": "admin@purplepuff.com",
+      "role": "SUPER ADMIN",
+      "status": "ACTIVE",
+      "created_at": "2026-01-01T00:00:00.000Z",
+      "last_login": "2026-09-14T05:17:42.852Z",
+      "salt": "425cb0532b7b8367884bdd498b993830",
+      "password_hash": "2c5f8f2cd045de02a63bbbb1df007c6c148b71bc607c4c7f5e32b8363cd6525de4ed4d467e8e472ce20a3a13f6e9259b62e1fe810d455d95d9dbb5011fe12ef2"
+    },
+    {
+      "id": "usr-002",
+      "name": "Store Manager Mark",
+      "email": "manager@purplepuff.com",
+      "role": "ADMIN",
+      "status": "ACTIVE",
+      "created_at": "2026-02-15T00:00:00.000Z",
+      "last_login": "2026-09-14T07:02:22.921Z",
+      "salt": "3219e86bb74a0655ae523d974e1243d4",
+      "password_hash": "a62ce4862a845fcee3bfbacd3da60b6864b76fca66c2b51f27f88b5f621e6b68c3b8e995e42d70667379f8d0f5021cb7c728932a7b0351fcc31af473a72a6adf"
+    },
+    {
+      "id": "usr-003",
+      "name": "Staff Purple Puff",
+      "email": "staff@purplepuff.com",
+      "role": "ADMIN",
+      "status": "ACTIVE",
+      "created_at": "2026-03-01T00:00:00.000Z",
+      "last_login": "2026-09-14T07:06:23.031Z",
+      "salt": "50de8da8802da948e65c258c8f72efc5",
+      "password_hash": "38efa5a8ce4db956d4e4e166fad9a16c6e72872aae64fd9fe03d9b1f3c7b18d0d45ccb2d300f526687f4dfc4dbd9ac2a69319d90cce80b2367be99cff306fd1e"
+    }
+  ],
+  "activity_logs": [
+    {
+      "user_id": "usr-003",
+      "user_name": "Staff Purple Puff",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-003",
+      "id": "log-1789369589606-jjmc",
+      "timestamp": "2026-09-14T07:06:29.606Z"
+    },
+    {
+      "user_id": "usr-003",
+      "user_name": "Staff Purple Puff",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-003",
+      "metadata": {
+        "email": "staff@purplepuff.com",
+        "role": "ADMIN"
+      },
+      "id": "log-1789369583031-6z72",
+      "timestamp": "2026-09-14T07:06:23.031Z"
+    },
+    {
+      "user_id": "usr-003",
+      "user_name": "Staff Purple Puff",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-003",
+      "metadata": {
+        "email": "staff@purplepuff.com",
+        "role": "ADMIN"
+      },
+      "id": "log-1789369499846-yjuq",
+      "timestamp": "2026-09-14T07:04:59.846Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "PRODUCT UPDATED",
+      "entity_type": "product",
+      "entity_id": "prod-002",
+      "metadata": {
+        "product_name": "Purple Punch Cosmic Cut",
+        "updates": {
+          "id": "prod-002",
+          "product_name": "Purple Punch Cosmic Cut",
+          "category_id": "cat-top",
+          "type": "Indica",
+          "description": "ไฮบริดอินดิก้าชั้นยอด กลิ่นบลูเบอร์รี่มัฟฟินและทาร์ตผลไม้หวานฉ่ำ ไตรโคมประกายประกายม่วงระยิบระยับ ปรับอารมณ์ให้สงบผ่อนคลาย",
+          "effect_1": "สงบจิตใจ",
+          "effect_2": "ลดความเครียด",
+          "effect_3": "ตัวเบาสบาย",
+          "price": 150,
+          "image_url": "https://images.unsplash.com/photo-1536939459926-301728717817?auto=format&fit=crop&w=800&q=80",
+          "status": "AVAILABLE",
+          "featured": true,
+          "display_order": 2,
+          "created_at": "2026-09-14T04:28:08.979Z",
+          "updated_at": "2026-09-14T04:28:08.979Z",
+          "created_by": "Super Admin",
+          "updated_by": "Store Manager Mark"
+        }
+      },
+      "id": "log-1789369437308-8gza",
+      "timestamp": "2026-09-14T07:03:57.308Z"
+    },
+    {
+      "user_id": "user",
+      "user_name": "Store Manager Mark",
+      "action": "STORE SETTINGS UPDATED",
+      "entity_type": "store_settings",
+      "entity_id": "store-main",
+      "metadata": {
+        "store_name": "PURPLE PUFF",
+        "description": "PURPLE PUFF — Cosmic & Premium Dispensary Store ดอกคัดเกรดพรีเมียม สดใหม่ กลิ่นแน่น คัดเฉพาะสายพันธุ์ชั้นนำ พร้อมบริการจัดส่งด่วนถึงที่",
+        "logo_url": "/uploads/store_logo_1789364484896_f158144d.png",
+        "banner_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=80",
+        "opening_time": "10:00",
+        "closing_time": "02:00",
+        "line_username": "@798shear",
+        "instagram_username": "",
+        "contact": "0902743754",
+        "delivery_available": true,
+        "location_address": "Pathum, Thailand (ให้บริการหน้าร้าน & จัดส่ง Express)",
+        "google_maps": "https://maps.app.goo.gl/CyT3Fp4SpJW27sYF8?g_st=ic",
+        "store_policies": "ผู้ซื้อต้องมีอายุตั้งแต่ 20 ปีบริบูรณ์ขึ้นไป ห้ามสตรีมีครรภ์หรือให้นมบุตรใช้งาน สินค้าเพื่อการผ่อนคลายและดูแลสุขภาวะเท่านั้น"
+      },
+      "id": "log-1789369391548-nnfn",
+      "timestamp": "2026-09-14T07:03:11.548Z"
+    },
+    {
+      "user_id": "user",
+      "user_name": "Store Manager Mark",
+      "action": "STORE SETTINGS UPDATED",
+      "entity_type": "store_settings",
+      "entity_id": "store-main",
+      "metadata": {
+        "store_name": "PURPLE PUFF",
+        "description": "PURPLE PUFF — Cosmic & Premium Dispensary Store ดอกคัดเกรดพรีเมียม สดใหม่ กลิ่นแน่น คัดเฉพาะสายพันธุ์ชั้นนำ พร้อมบริการจัดส่งด่วนถึงที่",
+        "logo_url": "/uploads/store_logo_1789364484896_f158144d.png",
+        "banner_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=80",
+        "opening_time": "10:00",
+        "closing_time": "02:00",
+        "line_username": "@798shear",
+        "instagram_username": "",
+        "contact": "0902743754",
+        "delivery_available": true,
+        "location_address": "Pathum, Thailand (ให้บริการหน้าร้าน & จัดส่ง Express)",
+        "google_maps": "https://maps.app.goo.gl/CyT3Fp4SpJW27sYF8?g_st=ic",
+        "store_policies": "ผู้ซื้อต้องมีอายุตั้งแต่ 20 ปีบริบูรณ์ขึ้นไป ห้ามสตรีมีครรภ์หรือให้นมบุตรใช้งาน สินค้าเพื่อการผ่อนคลายและดูแลสุขภาวะเท่านั้น"
+      },
+      "id": "log-1789369385843-uixm",
+      "timestamp": "2026-09-14T07:03:05.843Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "metadata": {
+        "email": "manager@purplepuff.com",
+        "role": "ADMIN"
+      },
+      "id": "log-1789369342922-9oxu",
+      "timestamp": "2026-09-14T07:02:22.922Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "id": "log-1789369336940-d883",
+      "timestamp": "2026-09-14T07:02:16.940Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "metadata": {
+        "email": "manager@purplepuff.com",
+        "role": "ADMIN"
+      },
+      "id": "log-1789369176603-1lhw",
+      "timestamp": "2026-09-14T06:59:36.603Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "id": "log-1789369143316-08ze",
+      "timestamp": "2026-09-14T06:59:03.316Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "PROMOTION UPDATED",
+      "entity_type": "promotion",
+      "entity_id": "promo-001",
+      "metadata": {
+        "title": "💜 3 free 1"
+      },
+      "id": "log-1789369139653-v0s8",
+      "timestamp": "2026-09-14T06:58:59.653Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "PROMOTION UPDATED",
+      "entity_type": "promotion",
+      "entity_id": "promo-001",
+      "metadata": {
+        "title": "💜 3 free 1"
+      },
+      "id": "log-1789369132095-e4bs",
+      "timestamp": "2026-09-14T06:58:52.095Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "PROMOTION UPDATED",
+      "entity_type": "promotion",
+      "entity_id": "promo-001",
+      "metadata": {
+        "title": "💜 3 free 1"
+      },
+      "id": "log-1789369081511-2134",
+      "timestamp": "2026-09-14T06:58:01.511Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "metadata": {
+        "email": "manager@purplepuff.com",
+        "role": "ADMIN"
+      },
+      "id": "log-1789369053231-4njt",
+      "timestamp": "2026-09-14T06:57:33.231Z"
+    },
+    {
+      "user_id": "usr-003",
+      "user_name": "Budtender Golf",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-003",
+      "id": "log-1789369040123-pdfu",
+      "timestamp": "2026-09-14T06:57:20.123Z"
+    },
+    {
+      "user_id": "usr-003",
+      "user_name": "Budtender Golf",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-003",
+      "metadata": {
+        "email": "staff@purplepuff.com",
+        "role": "STAFF"
+      },
+      "id": "log-1789368954668-r0i9",
+      "timestamp": "2026-09-14T06:55:54.668Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "id": "log-1789367946282-323c",
+      "timestamp": "2026-09-14T06:39:06.282Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "PRODUCT UPDATED",
+      "entity_type": "product",
+      "entity_id": "prod-001",
+      "metadata": {
+        "product_name": "Granddaddy Purple (GDP)",
+        "updates": {
+          "status": "AVAILABLE",
+          "updated_by": "Store Manager Mark"
+        }
+      },
+      "id": "log-1789367940515-k0f9",
+      "timestamp": "2026-09-14T06:39:00.515Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "metadata": {
+        "email": "manager@purplepuff.com",
+        "role": "ADMIN"
+      },
+      "id": "log-1789367923724-so0k",
+      "timestamp": "2026-09-14T06:38:43.724Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "id": "log-1789367899005-v32s",
+      "timestamp": "2026-09-14T06:38:19.005Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "PRODUCT CREATED",
+      "entity_type": "product",
+      "entity_id": "prod-1789367827844",
+      "metadata": {
+        "product_name": "ff",
+        "price": 110
+      },
+      "id": "log-1789367827845-sb2v",
+      "timestamp": "2026-09-14T06:37:07.845Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "metadata": {
+        "email": "manager@purplepuff.com",
+        "role": "ADMIN"
+      },
+      "id": "log-1789367805813-ws4i",
+      "timestamp": "2026-09-14T06:36:45.813Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "id": "log-1789367750517-2ufu",
+      "timestamp": "2026-09-14T06:35:50.517Z"
+    },
+    {
+      "user_id": "user",
+      "user_name": "Store Manager Mark",
+      "action": "STORE SETTINGS UPDATED",
+      "entity_type": "store_settings",
+      "entity_id": "store-main",
+      "metadata": {
+        "store_name": "PURPLE PUFF",
+        "description": "PURPLE PUFF — Cosmic & Premium Dispensary Store ดอกคัดเกรดพรีเมียม สดใหม่ กลิ่นแน่น คัดเฉพาะสายพันธุ์ชั้นนำ พร้อมบริการจัดส่งด่วนถึงที่",
+        "logo_url": "/uploads/store_logo_1789364484896_f158144d.png",
+        "banner_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=80",
+        "opening_time": "10:00",
+        "closing_time": "02:00",
+        "line_username": "https://line.me/R/ti/p/@798shear",
+        "instagram_username": "https://www.instagram.com/purplepuffna?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==",
+        "contact": "0902743754",
+        "delivery_available": true,
+        "location_address": "Pathum, Thailand (ให้บริการหน้าร้าน & จัดส่ง Express)",
+        "google_maps": "https://maps.app.goo.gl/CyT3Fp4SpJW27sYF8?g_st=ic",
+        "store_policies": "ผู้ซื้อต้องมีอายุตั้งแต่ 20 ปีบริบูรณ์ขึ้นไป ห้ามสตรีมีครรภ์หรือให้นมบุตรใช้งาน สินค้าเพื่อการผ่อนคลายและดูแลสุขภาวะเท่านั้น"
+      },
+      "id": "log-1789367733248-qqig",
+      "timestamp": "2026-09-14T06:35:33.248Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "metadata": {
+        "email": "manager@purplepuff.com",
+        "role": "ADMIN"
+      },
+      "id": "log-1789367573090-2trm",
+      "timestamp": "2026-09-14T06:32:53.090Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "id": "log-1789366949661-9qkf",
+      "timestamp": "2026-09-14T06:22:29.661Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "PRODUCT UPDATED",
+      "entity_type": "product",
+      "entity_id": "prod-001",
+      "metadata": {
+        "product_name": "Granddaddy Purple (GDP)",
+        "updates": {
+          "status": "SOLD OUT",
+          "updated_by": "Store Manager Mark"
+        }
+      },
+      "id": "log-1789366861606-s41b",
+      "timestamp": "2026-09-14T06:21:01.606Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "metadata": {
+        "email": "manager@purplepuff.com",
+        "role": "ADMIN"
+      },
+      "id": "log-1789366802853-558p",
+      "timestamp": "2026-09-14T06:20:02.853Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "id": "log-1789364811016-46p9",
+      "timestamp": "2026-09-14T05:46:51.016Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "PRODUCT CREATED",
+      "entity_type": "product",
+      "entity_id": "prod-1789364806956",
+      "metadata": {
+        "product_name": "I cream cookie",
+        "price": 150
+      },
+      "id": "log-1789364806957-al5v",
+      "timestamp": "2026-09-14T05:46:46.957Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "metadata": {
+        "email": "manager@purplepuff.com",
+        "role": "ADMIN"
+      },
+      "id": "log-1789364740516-jet6",
+      "timestamp": "2026-09-14T05:45:40.516Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "id": "log-1789364724677-afks",
+      "timestamp": "2026-09-14T05:45:24.677Z"
+    },
+    {
+      "user_id": "user",
+      "user_name": "Store Manager Mark",
+      "action": "STORE SETTINGS UPDATED",
+      "entity_type": "store_settings",
+      "entity_id": "store-main",
+      "metadata": {
+        "store_name": "PURPLE PUFF",
+        "description": "PURPLE PUFF — Cosmic & Premium Dispensary Store ดอกคัดเกรดพรีเมียม สดใหม่ กลิ่นแน่น คัดเฉพาะสายพันธุ์ชั้นนำ พร้อมบริการจัดส่งด่วนถึงที่",
+        "logo_url": "/uploads/store_logo_1789364484896_f158144d.png",
+        "banner_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=80",
+        "opening_time": "10:00",
+        "closing_time": "02:00",
+        "line_username": "@798shear",
+        "instagram_username": "Pulplepuff",
+        "contact": "081-798-SHEAR",
+        "delivery_available": true,
+        "location_address": "Pathum, Thailand (ให้บริการหน้าร้าน & จัดส่ง Express)",
+        "google_maps": "https://maps.app.goo.gl/CyT3Fp4SpJW27sYF8?g_st=ic",
+        "store_policies": "ผู้ซื้อต้องมีอายุตั้งแต่ 20 ปีบริบูรณ์ขึ้นไป ห้ามสตรีมีครรภ์หรือให้นมบุตรใช้งาน สินค้าเพื่อการผ่อนคลายและดูแลสุขภาวะเท่านั้น"
+      },
+      "id": "log-1789364663517-ndbn",
+      "timestamp": "2026-09-14T05:44:23.517Z"
+    },
+    {
+      "user_id": "user",
+      "user_name": "Store Manager Mark",
+      "action": "STORE SETTINGS UPDATED",
+      "entity_type": "store_settings",
+      "entity_id": "store-main",
+      "metadata": {
+        "store_name": "PURPLE PUFF",
+        "description": "PURPLE PUFF — Cosmic & Premium Dispensary Store ดอกคัดเกรดพรีเมียม สดใหม่ กลิ่นแน่น คัดเฉพาะสายพันธุ์ชั้นนำ พร้อมบริการจัดส่งด่วนถึงที่",
+        "logo_url": "/uploads/store_logo_1789364484896_f158144d.png",
+        "banner_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1600&q=80",
+        "opening_time": "10:00",
+        "closing_time": "02:00",
+        "line_username": "@798shear",
+        "instagram_username": "Pulplepuff",
+        "contact": "081-798-SHEAR",
+        "delivery_available": true,
+        "location_address": "Pathum, Thailand (ให้บริการหน้าร้าน & จัดส่ง Express)",
+        "google_maps": "https://maps.app.goo.gl/CyT3Fp4SpJW27sYF8?g_st=ic",
+        "store_policies": "ผู้ซื้อต้องมีอายุตั้งแต่ 20 ปีบริบูรณ์ขึ้นไป ห้ามสตรีมีครรภ์หรือให้นมบุตรใช้งาน สินค้าเพื่อการผ่อนคลายและดูแลสุขภาวะเท่านั้น"
+      },
+      "id": "log-1789364661687-vmtr",
+      "timestamp": "2026-09-14T05:44:21.687Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "IMAGE UPLOADED",
+      "entity_type": "image",
+      "entity_id": "store_logo_1789364484896_f158144d.png",
+      "metadata": {
+        "url": "/uploads/store_logo_1789364484896_f158144d.png",
+        "size": 163164
+      },
+      "id": "log-1789364484896-hz1w",
+      "timestamp": "2026-09-14T05:41:24.896Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "metadata": {
+        "email": "manager@purplepuff.com",
+        "role": "ADMIN"
+      },
+      "id": "log-1789364416084-z5nm",
+      "timestamp": "2026-09-14T05:40:16.084Z"
+    },
+    {
+      "user_id": "usr-001",
+      "user_name": "Super Admin Ploy",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-001",
+      "id": "log-1789363081153-oz1y",
+      "timestamp": "2026-09-14T05:18:01.153Z"
+    },
+    {
+      "user_id": "usr-001",
+      "user_name": "Super Admin Ploy",
+      "action": "PRODUCT UPDATED",
+      "entity_type": "product",
+      "entity_id": "prod-004",
+      "metadata": {
+        "product_name": "Gelato #33 (Larry Bird)",
+        "updates": {
+          "status": "SOLD OUT",
+          "updated_by": "Super Admin Ploy"
+        }
+      },
+      "id": "log-1789363076207-t65t",
+      "timestamp": "2026-09-14T05:17:56.207Z"
+    },
+    {
+      "user_id": "usr-001",
+      "user_name": "Super Admin Ploy",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-001",
+      "metadata": {
+        "email": "admin@purplepuff.com",
+        "role": "SUPER ADMIN"
+      },
+      "id": "log-1789363062853-6tq4",
+      "timestamp": "2026-09-14T05:17:42.853Z"
+    },
+    {
+      "user_id": "usr-003",
+      "user_name": "Budtender Golf",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-003",
+      "id": "log-1789363058450-m1xs",
+      "timestamp": "2026-09-14T05:17:38.450Z"
+    },
+    {
+      "user_id": "usr-003",
+      "user_name": "Budtender Golf",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-003",
+      "metadata": {
+        "email": "staff@purplepuff.com",
+        "role": "STAFF"
+      },
+      "id": "log-1789363036852-acg4",
+      "timestamp": "2026-09-14T05:17:16.852Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGOUT",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "id": "log-1789363031484-b1mp",
+      "timestamp": "2026-09-14T05:17:11.484Z"
+    },
+    {
+      "user_id": "usr-002",
+      "user_name": "Store Manager Mark",
+      "action": "LOGIN",
+      "entity_type": "user",
+      "entity_id": "usr-002",
+      "metadata": {
+        "email": "manager@purplepuff.com",
+        "role": "ADMIN"
+      },
+      "id": "log-1789362975933-jexu",
+      "timestamp": "2026-09-14T05:16:15.933Z"
+    },
+    {
+      "id": "log-001",
+      "user_id": "usr-001",
+      "user_name": "Super Admin Ploy",
+      "action": "STORE SETTINGS UPDATED",
+      "entity_type": "store_settings",
+      "entity_id": "store-main",
+      "timestamp": "2026-09-13T04:28:08.979Z",
+      "metadata": {
+        "note": "Initial configuration with overnight 02:00 closing schedule"
+      }
+    },
+    {
+      "id": "log-002",
+      "user_id": "usr-001",
+      "user_name": "Super Admin Ploy",
+      "action": "PRODUCT CREATED",
+      "entity_type": "product",
+      "entity_id": "prod-001",
+      "timestamp": "2026-09-13T10:28:08.979Z",
+      "metadata": {
+        "product_name": "Granddaddy Purple (GDP)",
+        "price": 450
+      }
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-1001",
+      "customer_name": "คุณณัฐพล",
+      "customer_phone": "089-123-4567",
+      "delivery_address": "คอนโดสุขุมวิท 24 แขวงคลองตัน เขตคลองเตย กทม. 10110",
+      "items": [
+        {
+          "product": {
+            "id": "prod-001",
+            "product_name": "Granddaddy Purple (GDP)",
+            "category_id": "cat-top",
+            "type": "Indica",
+            "description": "สายพันธุ์ตำนานสีม่วงเข้ม กลิ่นเบอร์รี่และองุ่นสุกเด่นชัด ให้ความผ่อนคลายล้ำลึก สบายตัวสูงสุด เหมาะสำหรับพักผ่อนยามค่ำคืน",
+            "effect_1": "ผ่อนคลายลึก",
+            "effect_2": "หลับสบาย",
+            "effect_3": "เคลิ้มสุข",
+            "price": 450,
+            "image_url": "https://images.unsplash.com/photo-1568644396922-5c3bfae12521?auto=format&fit=crop&w=800&q=80",
+            "status": "AVAILABLE",
+            "featured": true,
+            "display_order": 1,
+            "created_at": "2026-09-14T04:28:08.979Z",
+            "updated_at": "2026-09-14T04:28:08.979Z",
+            "created_by": "Super Admin"
+          },
+          "quantity": 2
+        },
+        {
+          "product": {
+            "id": "prod-006",
+            "product_name": "Purple Cosmic Pre-Roll 1G",
+            "category_id": "cat-preroll",
+            "type": "Indica",
+            "description": "พันลำสำเร็จรูปพร้อมสูบ 1 กรัม ดอก GDP 100% ไม่มีก้าน ห่อด้วยกระดาษ RAW Organic Hemp กลิ่นหอมฟุ้ง พกพาสะดวก",
+            "effect_1": "พร้อมสูบไว",
+            "effect_2": "หลับลึก",
+            "effect_3": "คลายกังวล",
+            "price": 190,
+            "image_url": "https://images.unsplash.com/photo-1527661591475-527312dd65f5?auto=format&fit=crop&w=800&q=80",
+            "status": "AVAILABLE",
+            "featured": true,
+            "display_order": 6,
+            "created_at": "2026-09-14T04:28:08.979Z",
+            "updated_at": "2026-09-14T04:28:08.979Z",
+            "created_by": "Super Admin"
+          },
+          "quantity": 1
+        }
+      ],
+      "total_amount": 1090,
+      "status": "CONFIRMED",
+      "notes": "ส่งช่วงค่ำหลัง 20:00 น. โทรแจ้งก่อนส่งครับ",
+      "created_at": "2026-09-14T00:28:08.979Z",
+      "updated_at": "2026-09-14T04:28:08.979Z"
+    }
+  ]
+}
